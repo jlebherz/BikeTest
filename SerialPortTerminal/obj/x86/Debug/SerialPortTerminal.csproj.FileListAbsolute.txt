@@ -1,0 +1,48 @@
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\bin\Debug\SerialPortTerminal.exe
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\bin\Debug\SerialPortTerminal.pdb
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Form1.resources
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.exe
+C:\Users\Lenny\AppData\Local\Temporary Projects\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.pdb
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.exe
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.pdb
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPortTerminal.exe
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPortTerminal.pdb
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Form1.resources
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.exe
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.pdb
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPortTerminal.exe
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPortTerminal.pdb
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Form1.resources
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Projekte\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPortTerminal.exe
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.About.resources
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.main.resources
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\bin\Debug\BikeTest.exe
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\bin\Debug\BikeTest.pdb
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\BikeTest.Properties.Resources.resources
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\BikeTest.exe
+C:\Users\John\Downloads\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\BikeTest.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\bin\Debug\BikeTest.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\bin\Debug\BikeTest.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\BikeTest.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\BikeTest.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\BikeTest.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\Biketest.About.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\Biketest.main.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\Biketest.Splash.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\BikeTest\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.CoreCompileInputs.cache
